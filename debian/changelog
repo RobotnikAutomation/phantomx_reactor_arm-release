@@ -1,0 +1,15 @@
+ros-indigo-phantomx-reactor-arm-controller (0.1.2-0saucy) saucy; urgency=high
+
+
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Mon, 08 Aug 2016 22:00:00 -0000
+
+ros-indigo-phantomx-reactor-arm-controller (0.1.1-0saucy) saucy; urgency=high
+
+  * Added package to indigo and wiki
+  * Adding controller and description. Only for 4dof for now
+  * Contributors: AliquesTomas, RomanRobotnik
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Mon, 08 Aug 2016 22:00:00 -0000
+
+
