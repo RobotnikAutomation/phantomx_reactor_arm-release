@@ -2,6 +2,11 @@
 Changelog for package phantomx_reactor_arm_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2016-08-10)
+------------------
+* Adding missing dependencies
+* Contributors: AliquesTomas
+
 0.1.2 (2016-08-09)
 ------------------
 
