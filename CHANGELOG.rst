@@ -2,6 +2,13 @@
 Changelog for package phantomx_reactor_arm_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2016-08-10)
+------------------
+* Corrected the Cmakelists and Setup.py files
+* Changing path in setup.py
+* Adding missing dependencies
+* Contributors: AliquesTomas
+
 0.1.2 (2016-08-09)
 ------------------
 
