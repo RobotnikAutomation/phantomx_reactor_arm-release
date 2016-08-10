@@ -1,0 +1,12 @@
+Source: ros-indigo-phantomx-reactor-arm-controller
+Section: misc
+Priority: extra
+Maintainer: Roberto Guzmán <rguzman@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-arbotix-python, ros-indigo-catkin, ros-indigo-rospy
+Homepage: http://wiki.ros.org/phantomx_reactor_arm_controller
+Standards-Version: 3.9.2
+
+Package: ros-indigo-phantomx-reactor-arm-controller
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-arbotix-python, ros-indigo-rospy
+Description: The phantomx_reactor_arm_controller package
